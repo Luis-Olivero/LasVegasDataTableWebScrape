@@ -29,14 +29,14 @@ C:\Users\Luisa\OneDrive\Documents\Portfolio Projects\LV Data Web Scrape Project\
 
 The data is stored in the projects schema in a table named las_vegas_teams with the following structure:
 
-`CREATE TABLE projects.las_vegas_teams (
+CREATE TABLE projects.las_vegas_teams (
     Team VARCHAR(100),
     Sport VARCHAR(100),
     League VARCHAR(100),
     Venue VARCHAR(100),
     Established YEAR,
     Titles VARCHAR(50)
-);`
+);
 
 ## Data Preprocessing
 Key steps taken to prepare the data for analysis:
