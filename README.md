@@ -1,4 +1,4 @@
-* Las Vegas Sports Teams Data Collection and Analysis
+*Las Vegas Sports Teams Data Collection and Analysis
 
 ** Project Overview
 This project collects and analyzes data on sports teams in Las Vegas from Wikipedia, storing the data in a MySQL database and visualizing it using Tableau.
