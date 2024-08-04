@@ -1,4 +1,4 @@
-- Las Vegas Sports Teams Data Collection and Analysis
+^ Las Vegas Sports Teams Data Collection and Analysis
 
 Project Overview
 
