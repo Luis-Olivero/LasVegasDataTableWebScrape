@@ -48,7 +48,7 @@ Key steps taken to prepare the data for analysis:
 ## Data Analysis
 Analysis of the collected data includes:
 
-## Overview of the sports teams in Las Vegas.
+Overview of the sports teams in Las Vegas.
 - Examination of the venues, including capacity.
 - Analysis of the establishment years and titles won by the teams.
 
