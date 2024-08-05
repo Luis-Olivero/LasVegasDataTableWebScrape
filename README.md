@@ -56,7 +56,9 @@ Overview of the sports teams in Las Vegas.
 Given the small size of the dataset, the data is visualized in Tableau as a simple table to clearly present all the relevant information.
 
 Tableau Visualization:
-A table has been created in Tableau to show all the teams, their sports, leagues, venues, establishment years, and titles.
+- A table has been created in Tableau to show all the teams, their sports, leagues, venues, establishment years, and titles.
+
+[Tableau Link](https://public.tableau.com/app/profile/luis.olivero2947/viz/LasVegasTeams/Dashboard1#1) 
 
 ## Conclusion
 This project demonstrates the process of web scraping data, storing it in a database, and visualizing it using Tableau, providing insights into the sports teams in Las Vegas.
