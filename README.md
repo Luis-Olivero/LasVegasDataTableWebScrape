@@ -53,13 +53,10 @@ Overview of the sports teams in Las Vegas.
 - Analysis of the establishment years and titles won by the teams.
 
 ## Visualization in Tableau
-A comprehensive dashboard has been created in Tableau to visualize the key insights. The dashboard includes:
+Given the small size of the dataset, the data is visualized in Tableau as a simple table to clearly present all the relevant information.
 
-- Team Overview: A table showing all the teams, their sports, leagues, and venues.
-- Venue Capacity: A bar chart displaying the capacity of each venue.
-- Established Years: A timeline of when each team was established.
-- Titles Won: A summary of the titles won by each team.
-- Link to Tableau Dashboard
+Tableau Visualization:
+A table has been created in Tableau to show all the teams, their sports, leagues, venues, establishment years, and titles.
 
 ## Conclusion
 This project demonstrates the process of web scraping data, storing it in a database, and visualizing it using Tableau, providing insights into the sports teams in Las Vegas.
